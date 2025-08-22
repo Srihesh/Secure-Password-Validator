@@ -1,4 +1,4 @@
-##Secure Password Validator
+## Secure Password Validator
 
 This Python script checks if your passwords have been compromised in data breaches using the Have I Been Pwned (HIBP) API.
 
